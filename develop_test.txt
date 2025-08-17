@@ -1,5 +1,8 @@
 yenilendi,birleştirme yapıldı...
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> main
 ekleme yapıldı
