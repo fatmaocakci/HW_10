@@ -1,0 +1,228 @@
+    1  whoamı
+    2  help
+    3  help cd
+    4  clear
+    5  pwd
+    6  cd
+    7  pwd
+    8  cd desktop
+    9  pwd
+   10  ls
+   11  cd fikri tel
+   12  pwd
+   13  cd :
+   14  pwd
+   15  clear
+   16  pwd
+   17  cd veri
+   18  touch deneme
+   19  ls
+   20  pwd
+   21  cd deneme
+   22  touch test.txt
+   23  rm dersler
+   24  mkdir dersler
+   25  rm test.txt
+   26  rmdir dersler
+   27  clear
+   28  date
+   29  ping www.google.com
+   30  systeminfo
+   31  ipcongif
+   32  ipconfig
+   33  cd 
+   34  clear
+   35  git config--global user.name fatma 
+   36  config--global user.mail ftmaaocakci@gmail.com
+   37  pwd
+   38  cd sql
+   39  cd desktop
+   40  cd sql
+   41  git init
+   42  git add .
+   43  git commit -m 'ilk verisyon'
+   44  git push
+   45  git remode add origin [200~
+   46  git push -u origin master
+   47  [200~git push -u origin master
+   48  git push -u origin main
+   49  git remode add https://github.com/fatmaocakci/goit.git
+   50  git push -u origin master
+   51  git push -u
+   52  git init
+   53  git add .
+   54  git init
+   55  git add .
+   56  git commit m 'v1'
+   57  git commit -m 'v1'
+   58  git config --global user.email "ftmaaocakci@gmail.com"
+   59  [200~
+   60  git config --global user.email "ftmaaocakci@gmail.com"
+   61  git config--global user.name "fatma"
+   62  git config--global user.name "fatma.ocakci"
+   63  git config --global user.name "fatmaocakci"
+   64  git add .
+   65  git commit -m "v1"
+   66  git remote add origin https://github.com/fatmaocakci/goit.git
+   67  git push -u origin master
+   68  git branch
+   69  git branch fatma
+   70  cd 
+   71  cd desktop
+   72  cd sql
+   73  git branch
+   74  git branch fatma
+   75  git branch
+   76  git checkout fatma
+   77  git checkout master
+   78  git checkout master
+   79  git add .
+   80  git commit -m "master ilk commit"
+   81  git checkout muhammet
+   82  git checkout fatma
+   83  git add commit -m "v1"
+   84  git add .
+   85  git commit -m "v1"
+   86  git checkout master
+   87  git marge fatma
+   88  git merge fatma
+   89  git add .
+   90  git commit -m "v2"
+   91  git push
+   92  git checkout fatma
+   93  git merge master
+   94  git add .
+   95  git commit -m "son hali"
+   96  git branch
+   97  cd
+   98  cd desktop
+   99  cd sql
+  100  git branch
+  101  git push
+  102  [200~git push --set-upstream origin fatma
+  103  git push --set-upstream origin fatma
+  104  git add .
+  105  git commit -m "son versiyon"
+  106  git push
+  107  git merge master
+  108  git checkout master
+  109  git checkout fatma
+  110  git add .
+  111  git commit -m "son versiyon1"
+  112  git push
+  113  git add .
+  114  git commit -m "son verisyon"
+  115  git add .
+  116  git commit -m "son verisyon3"
+  117  git checkout master
+  118  git add .
+  119  git commit -m "son"
+  120  git checkout fatma
+  121  git merge master
+  122  git checkout fatma
+  123  git puash
+  124  git push
+  125  cd desktop
+  126  clear
+  127  git push
+  128  cd desktop
+  129  cd desktop
+  130  git clone [200~https://github.com/fatmaocakci/goit.git~
+  131  git clone https://github.com/fatmaocakci/goit.git
+  132  git clone https://github.com/fatmaocakci/goit.git
+  133  git clone https://github.com/fatmaocakci/goit.git
+  134  pwd
+  135  git config --global user.name fatma
+  136  git config --global user.email ftmaaocakci@gmail.com
+  137  git init
+  138  git clone
+  139  cd desktop
+  140  clear
+  141  cd
+  142  cd desktop
+  143  mkdir HW_10
+  144  cd HW_10
+  145  git init
+  146  touch text_ignore.txt
+  147  git statüs
+  148  git status
+  149  git add .
+  150  git init
+  151  git commit -m "v1"
+  152  git push
+  153  cd desktop
+  154  git clone https://github.com/fatmaocakci/HW_10.git
+  155  git clone https://github.com/fatmaocakci/HW_10.git
+  156  cd HW_10
+  157  touch text_ignore.txt
+  158  git status
+  159  git add .
+  160  git commit -m "v1"
+  161  git status
+  162  git push
+  163  touch main_test.txt
+  164  git add .
+  165  git commit -m "yeni dosya"
+  166  git push
+  167  git branch
+  168  git branch develop
+  169  git branch
+  170  git checkout develop
+  171  touch develop_test.txt
+  172  git add .
+  173  git commit -m "yeni_dosya"
+  174  git push
+  175  git add .
+  176  git commit -m "v2"
+  177  git checkout main
+  178  git checkout develop
+  179  git status
+  180  checkout main
+  181  git checkout main
+  182  git merge develop
+  183  git log
+  184  git add .
+  185  git commit -m "v3"
+  186  git push
+  187  git branch
+  188  git checkout develop
+  189  git push
+  190  git push --set-upstream origin develop
+  191  git add .
+  192  git commit -m "birlestirme"
+  193  git push
+  194  git merge main
+  195  git add .
+  196  git commit -m "vson"
+  197  git push
+  198  checkout main
+  199  git checkout main
+  200  git checkout develop
+  201  git add .
+  202  git commit -m "vson1"
+  203  git push
+  204  git checkout main
+  205  git merge develop
+  206  git add .
+  207  git commit -m "eklendi"
+  208  git push
+  209  git checkout develop
+  210  git add .
+  211  git commit -m "eklendi"
+  212  git merge main
+  213  git push
+  214  [200~history > command_list.csv~
+  215  git history
+  216  git bash
+  217  git history 
+  218  git history comman_list.cvs
+  219  git history command_list.cvs
+  220  git add .
+  221  git commit -m "son"
+  222  git push
+  223  cd desktop
+  224  sd HW_10
+  225  cd HW_10
+  226  history>command_list.csv
+  227  git push
+  228  history>command_list.csv
